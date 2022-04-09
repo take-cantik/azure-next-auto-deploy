@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/naming-convention */
 import "../../styles/reset.css";
 import "../../styles/globals.css";
 import type { AppProps } from "next/app";
